@@ -35,6 +35,8 @@ function Hero() {
           most likely to fit your needs. We examine annual percentage rates,
           annual fees.</p>
       </div>
+
+      
       <div className={` flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`} >
         <img src={robot} alt="billing" className="w-[100%] h-[100%] relative z-[5]" />
         
